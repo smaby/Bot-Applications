@@ -1,0 +1,78 @@
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.dll.config
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Bot Application1.pdb
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Autofac.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Chronic.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Newtonsoft.Json.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Autofac.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\Newtonsoft.Json.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.xml
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application2.csprojResolveAssemblyReference.cache
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application1.dll
+c:\users\gandharva.p\documents\visual studio 2015\Projects\Bot Application2\Bot Application2\obj\Debug\Bot Application1.pdb
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Bot Application1.dll.config
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Bot Application1.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Bot Application1.pdb
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Autofac.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Chronic.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Newtonsoft.Json.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Web.Http.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Autofac.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Bot.Builder.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Bot.Connector.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\Newtonsoft.Json.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Net.Http.Formatting.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Web.Http.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\System.Web.Http.WebHost.xml
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\obj\Debug\Bot Application2.csprojResolveAssemblyReference.cache
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\obj\Debug\Bot Application1.dll
+C:\Workshop\ConferenceRoom_Reservation_Bot_Application\Bot Application2\Bot Application2\obj\Debug\Bot Application1.pdb

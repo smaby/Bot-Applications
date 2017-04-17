@@ -1,0 +1,46 @@
+C:\WS\BOT\EmojiBot\EmojiBot\obj\Debug\EmojiBot.csprojResolveAssemblyReference.cache
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Bot Application1.dll.config
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Bot Application1.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Bot Application1.pdb
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Autofac.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Chronic.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Bot.Builder.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Bot.Connector.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Newtonsoft.Json.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Formatting.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Web.Http.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Web.Http.WebHost.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Autofac.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Bot.Builder.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Bot.Connector.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Newtonsoft.Json.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Formatting.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Web.Http.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Web.Http.WebHost.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\WS\BOT\EmojiBot\EmojiBot\obj\Debug\Bot Application1.dll
+C:\WS\BOT\EmojiBot\EmojiBot\obj\Debug\Bot Application1.pdb
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.ProjectOxford.Common.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\Microsoft.ProjectOxford.Emotion.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Extensions.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Primitives.dll
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Extensions.xml
+C:\WS\BOT\EmojiBot\EmojiBot\bin\System.Net.Http.Primitives.xml
+C:\WS\BOT\EmojiBot\EmojiBot\obj\Debug\EmojiBot.csproj.App.config
